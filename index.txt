@@ -1,0 +1,11 @@
+clases: fabricante de objetos
+abstraccion: extraer las propiedades y metodos comonues de un tipo
+de objeto en concreto
+
+modularizacion: dividir tu programa en un bloque de codigo y no en varios
+bloques o modulos, de tal forma que obtines la misma aplicacion pero con 
+mejor estructura.
+dividir el codigo en varias partes o en modulos
+
+reutilizacion: 
+
