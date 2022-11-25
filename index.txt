@@ -7,5 +7,5 @@ bloques o modulos, de tal forma que obtines la misma aplicacion pero con
 mejor estructura.
 dividir el codigo en varias partes o en modulos
 
-reutilizacion: 
+reutilizacion: es un tipo de reutilizacion de codigos para facilitar todo
 
